@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 547f869a3d888044c975d380fcc178c8
+timeCreated: 1502003252
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RockBiter
+  fontNames:
+  - RockBiter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
